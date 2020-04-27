@@ -52,7 +52,7 @@
                         <configuration>
                             <appendAssemblyId>false</appendAssemblyId>
                             <descriptors>
-                                <descriptor>*.xml</descriptor>
+                                <descriptor></descriptor>
                             </descriptors>
                         </configuration>
                     </execution>
